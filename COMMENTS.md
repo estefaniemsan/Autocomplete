@@ -22,7 +22,7 @@ Backend Atual: Flask (Python)
 
 Seguindo pela mesma ideia, cheguei a terceira versão kkkkkk, atualmente conhecida como web scraping, onde literalmente pesquiso as sugestões em uma url google e coleto as orações obtidas. 
 
-Utilizei o Flask, flask_cors, requests e algumas outras bibliotecas para me auxiliarem na conexão via api (confesso que ainde tenho muito que aprender nesse quesito)
+Utilizei o Flask, flask_cors, requests e algumas outras bibliotecas para me auxiliarem na conexão via api (confesso que ainda tenho muito que aprender nesse quesito)
 
 Se tivesse mais tempo gostaria de explorar conexões via Mongodb, e ter usado o Graphql, infelizmente pela limitação de tempo (estagio + semana de provas), preferi focar na funcionalidade e acabei não conseguindo entender como funcionaria essa conexão, implentar e testar. 
 

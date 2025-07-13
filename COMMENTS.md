@@ -38,6 +38,8 @@ Implementações futuras:
 -- Gostaria de colocar um botão de pesquisa que redirecionasse para uma pagína correspondente 
 -- adicionar funções de teclas (Enter, baixo, cima)
 -- Adicionar histórico de pesquisas (em uma aba ou trocar o ícone quando for recente)
+-- Realizar apenas o autocomplete (não exibir palavas que contenham o digitado)
+-- Atalhos com teclas enter e setas para navegação
 
 
 

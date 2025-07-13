@@ -20,7 +20,7 @@ Ideias Backend que foram abandonadas:
 
 Backend Atual: Flask (Python)
 
-Seguindo pela mesma ideia, cheguei a terceira versão kkkkkk, atualmente conhecida como scrapping, onde literalmente pesquiso as sugestões em uma url google e coleto as orações obtidas. 
+Seguindo pela mesma ideia, cheguei a terceira versão kkkkkk, atualmente conhecida como web scraping, onde literalmente pesquiso as sugestões em uma url google e coleto as orações obtidas. 
 
 Utilizei o Flask, flask_cors, requests e algumas outras bibliotecas para me auxiliarem na conexão via api (confesso que ainde tenho muito que aprender nesse quesito)
 

@@ -3,7 +3,7 @@
 Este projeto é uma aplicação de **autocomplete** que sugere resultados à medida que o usuário digita. Ele é dividido em duas partes:
 
 - 🖥️ **Frontend**: interface de usuário (React)
-- ⚙️ **Backend**: API responsável por fornecer as sugestões (Python(Flask, flask_cors, requests)
+- ⚙️ **Backend**: API responsável por fornecer as sugestões (Python - Flask, flask_cors, requests)
 
 A aplicação está containerizada com **Docker** para facilitar o uso e a portabilidade.
 

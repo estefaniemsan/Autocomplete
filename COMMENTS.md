@@ -1,4 +1,4 @@
-Comentários sobre o Projeto de busca autocomplete
+Comentários sobre o projeto de busca autocomplete
 ---------------------------------------------------------------------------------------
 Este projeto foi o meu primeiro contato com algo realmente completo e complexo, confesso que aprendi muitas coisas e explorei ao máximo as ideias, criatividade e opções. 
 
